@@ -56,8 +56,8 @@ To add new/additional components to your offline environment:
 
 1. npm install them on your online environment
 ```
-// for example adding bootstrap
->npm install bootstrap --save 
+// for example adding bootstrap 4
+>npm install bootstrap@next --save 
 ```
 2. zip the npm_cache folder
 3. unzip the npm_cache.zip contents on your offline environment.
